@@ -1,0 +1,47 @@
+ 
+  .centered-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .navbar {
+    
+    justify-content: center;
+   }
+
+  .logo{
+    width: 10%;
+  }
+  .title{
+    font-family: courier;
+  }
+.subtitle{
+    font-family: courier;
+    font-size: 1.1em;
+}
+  .navbar-brand:hover{
+
+    color:black;
+    background-color: rgb(242, 242, 242);
+    border-radius: 10%;
+    padding: 5px;
+
+  }
+  .secao1{
+    height: 70vh;
+    background-image: url('../img/backgroundsecao1.png');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+  } 
+  
+  .secao2{
+    height:100%;
+    
+  } 
+
+  .card{
+    width: 100%;
+  }
+ 
